@@ -1,6 +1,7 @@
 
   {
       "name": "UI/UX Designer Portfolio Website",
+      "homepage": "https://enisesultankaya.github.io/enisesultankaya-portfolio-uiux"
       "version": "0.1.0",
       "private": true,
       "dependencies": {
